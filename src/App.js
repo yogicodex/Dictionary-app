@@ -19,9 +19,7 @@ export default function App() {
         </main>
 
         <footer className="mt-4 footer">
-          <p className="m-0">
-            This is an <a href="https://github.com/cslylla/react-dictionary" target="_blank" rel="noreferrer" title="Open GitHub repository">open-sourced</a> project coded by <a href="https://www.linkedin.com/in/lilla-csanaky-a850a617/" target="_blank" rel="noreferrer" title="Open Lilla`s LinkedIn profile" >cslylla</a>
-          </p>
+         
         </footer>
       </div>
     </div>
